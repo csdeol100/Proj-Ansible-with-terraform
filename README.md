@@ -685,10 +685,10 @@ Terraform has four essential commands that allow us to deal with an end-to-end w
 
 We’ll walk you through the entire process, step-by-step:
 
-**1)** Download from https://github.com/joinpragra/ Ansible-with-Terraform.
+**1)** Download from https://github.com/csdeol100/Proj-Ansible-with-terraform.git.
 
 ```sh
-$ git clone https://github.com/joinpragra/ Ansible-with-Terraform && cd  Ansible-with-Terraform
+$ git clone https://github.com/joinpragra/ Ansible-with-Terraform && cd  Proj-Ansible-with-terraform
 ```
 
 **2)** Explore the directories and get yourself familiar with the code, go over each file and understand how they all work together (reserve 30 minutes for this exercise), make changes where you deem necessary:
